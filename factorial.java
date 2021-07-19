@@ -16,5 +16,5 @@ public class factorial {
 			n--;
 		}
 		
-		System.out.println("factorial of 10 is "+ factorial);
+		System.out.println("factorial of 10 is  "+ factorial);
 	}
