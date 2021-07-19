@@ -1,4 +1,4 @@
-#2 java-lab-programs
+## java-lab-programs
 Java programs written during the course of 4th semester
 
 1. Write a Java Program
